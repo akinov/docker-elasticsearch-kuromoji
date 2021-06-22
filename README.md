@@ -1,2 +1,2 @@
 # docker-elasticsearch-kuromoji
-elasticsearch(7.2.1) + kuromoji.
+elasticsearch(6.8.16) + kuromoji.
